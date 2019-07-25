@@ -2,7 +2,7 @@
 		"VoteIntroduce": "这是投票1的介绍这是投票1的介绍这是投票1的介绍这是投票1的介绍",
 		"VoteRule": "这是投票1的规则这是投票1的规则这是投票1的规则这是投票1的规则",
 		"UserRemainVote": 10
-	}]
+	}],
 	"OptionsList1": [{
 		"id": 1,
 		"count": 11,
@@ -169,7 +169,7 @@
 		"VoteIntroduce": "这是投票2的介绍这是投票2的介绍这是投票2的介绍这是投票2的介绍",
 		"VoteRule": "这是投票2的规则这是投票2的规则这是投票2的规则这是投票2的规则",
 		"UserRemainVote": 10
-	}]
+	}],
 	"OptionsList2": [{
 		"id": 1,
 		"count": 0,
